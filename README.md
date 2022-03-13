@@ -51,3 +51,55 @@
 25. ?begindate={payload} 
 
 26. ?enddate={payload} 
+
+### Top 25 Server-Side Request Forgery (SSRF)
+
+1.?dest={target} 
+
+2.?redirect.{target} 
+
+3.?uri={target} 
+
+4.?path={target} 
+
+5.?continue.{target} 
+
+6.?url={target} 
+
+7.?window.{target}  
+
+8.7next={target}  
+
+9.7data={target} 
+
+10.?reference={target} 
+
+11.?site={target} 
+
+12.?html={target} 
+
+13.?val.{target} 
+
+14.?validate={target} 
+
+15.?domain.{target} 
+
+16.?callback={target}  
+
+17.?return={target}  
+
+18.?page={target}  
+
+19.?feed={target}  
+
+20.?host={target} 
+
+21.?port={target}  
+
+22.?to={target} 
+
+23.?out={target} 
+
+24.?view={target}
+
+25.?dir={target} 
